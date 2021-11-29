@@ -3,6 +3,8 @@
 
 > <samp>*https://git.io/stonegray*</samp>
   
+  <!--
 <samp>Here's a randomly selected picture of a cat:</samp>
 
 ![](https://cataas.com/cat)
+-->
